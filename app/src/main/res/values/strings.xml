@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetIIMEI</string>
+    <string name="imei_text">Your IMEI shown here</string>
+    <string name="imei_button">Get IMEI</string>
+</resources>
